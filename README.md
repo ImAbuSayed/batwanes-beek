@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في سكون الليل
+> قلبي ينادي من بعيد
+> أشواق روحي كالنار تسيل
+> وحدك أنت من أريد
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
