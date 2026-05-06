@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 21, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/batwanes-beek/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Secure Licensing Rights for Batwanes Beek](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
